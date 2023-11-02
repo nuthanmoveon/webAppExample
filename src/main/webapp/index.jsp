@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>Hi Nuthan Welcome to java webapp</h2>
 </body>
 </html>
